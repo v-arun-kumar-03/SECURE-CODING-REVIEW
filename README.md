@@ -25,3 +25,4 @@ The application includes secure user registration, login authentication, passwor
 
 # OUTPUT
 
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/c96be60b-94a3-4ae2-9a50-749c326f75b7" />
